@@ -1,0 +1,4 @@
+/venv/
+/WinPython/
+*.sqlite3
+/.idea/

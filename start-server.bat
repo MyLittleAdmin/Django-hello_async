@@ -1,0 +1,1 @@
+uvicorn async_django.asgi:application --reload
